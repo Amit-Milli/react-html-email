@@ -1,12 +1,8 @@
 {
-  "name": "react-html-email",
+  "name": "@melkornms/react-html-email",
   "description": "Create elegant HTML email templates using React.",
   "version": "3.0.0",
-  "keywords": [
-    "react",
-    "html",
-    "email"
-  ],
+  "keywords": ["react", "html", "email"],
   "license": "MIT",
   "author": {
     "name": "Max Goodman",
@@ -21,7 +17,7 @@
     "prepare": "npm run compile"
   },
   "main": "lib/index.js",
-  "repository": "chromakode/react-html-email",
+  "repository": "MelkorNemesis/react-html-email",
   "devDependencies": {
     "babel-cli": "~6.26.0",
     "babel-eslint": "~8.0.0",
